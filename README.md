@@ -25,13 +25,12 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Teapot | ![](data/teapot.png) | [.zip](data/teapot.zip) | [.obj](data/teapot.obj) | [Martin Newell](ftp://ftp.funet.fi/pub/sci/graphics/packages/objects/teaset.tar.Z) | missing |
 | Alligator | ![](data/alligator.png) | [.zip](data/alligator.zip) | [.obj](data/alligator.obj) | [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/images/alec-jacobson-thesis-2013.pdf) | [dblp](https://dblp.org/rec/bibtex/journals/tog/JacobsonBPS11)
 | Woody/Gingerbread Man | ![](data/woody.png) | [.zip](data/woody.zip) | [.obj](data/woody.obj) | Scott Schaefer | [dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06) |
-| Lucy | missing | missing | missing | missing | missing |
+| Lucy | ![](data/lucy.png) | [.zip](data/lucy.zip) | [.obj](data/lucy.obj) | [Stanford](http://graphics.stanford.edu/data/3Dscanrep/) | missing |
 | Suzanne | missing | missing | missing | missing | missing |
 | XYZ Dragon | missing | missing | missing | missing | missing |
 | Bimba | missing | missing | missing | missing | missing |
 | Lucy | missing | missing | missing | missing | missing |
 | Igea | missing | missing | missing | missing | missing |
-
 
 # Other lists and repositories of 3D models
 
@@ -59,4 +58,3 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 - [MPI Dynamic FAUST human bodies](http://dfaust.is.tue.mpg.de/)
  - [Facebook Reality Lab Replica](https://github.com/facebookresearch/Replica-Dataset)
 - [Smithsonian Institution](https://www.si.edu/search/3d?edan_q=&edan_fq%5B0%5D=metadata_usage%3ACC0%20OR%20media_usage%3ACC0)
-
